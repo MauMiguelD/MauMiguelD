@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**MauMiguelD/MauMiguelD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MauMiguelD-README.MD
 
-Here are some ideas to get you started:
+# Mauricio Miguel 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aluno Front-end EBAC 
+
+## Olá 👋
+
+Eu sou aluno do curso front end da EBAC, atualmente estudando HTML e CSS.
+
+* Atualmente estudando as linguagens de programação front end
+* sobre mim: motociclista, gamer e amante de cerveja
+* Contato: (https://www.linkedin.com/in/mauricio-miguel-dzovoniarkiewicz-373408221/) | (maumiguel.dzovoniarkiewicz@gmail.com)
