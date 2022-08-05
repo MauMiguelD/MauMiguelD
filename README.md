@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# MauMiguelD-README.MD
-
 # Mauricio Miguel 
 
 ### Aluno Front-end EBAC 
