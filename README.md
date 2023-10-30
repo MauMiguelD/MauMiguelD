@@ -4,7 +4,7 @@
 ---
 ## Olá 👋
 ---
-📒 Eu sou aluno do curso front end da EBAC, atualmente estudando HTML e CSS.
+📒 Eu sou aluno do curso front end da EBAC, atualmente estudando ADS na FMU
 ---
 * 🚀 Atualmente estudando as linguagens de programação front end
 * 🚀 sobre mim: motociclista, gamer e amante de cerveja
